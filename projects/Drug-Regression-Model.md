@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/CEW1.JPG
+image: https://o.aolcdn.com/images/dims?thumbnail=960%2C&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fuu%2Fapi%2Fres%2F1.2%2FqEjW8LMkT.vPxSm7ekRC8A--%7EB%2FaD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--%2Fhttps%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2019-06%252F29d9e1e0-8d17-11e9-badf-8e6de9f73ea9%26client%3Da1acac3e1b3290917d92%26signature%3D370ce1f3213dc3ed909feabe79c9ef9f16a7a129&client=amp-blogside-v2&signature=08a850af9af537cf5ffccbe7138f0c71628b7229
 title: Regression Model to Predict Patient Estimated Hospitalization Time
 permalink: projects/Drug-Regression-Model
 date: 2020
@@ -30,20 +30,7 @@ This project demonstrated the importance of building the right data representati
 ### Dataset
 Due to healthcare PHI regulations (HIPAA, HITECH), there are limited number of publicly available datasets and some datasets require training and approval. Therefore, dataset is limited in its representation of some key features such as diagnosis codes which are usually an unordered list in 835s/837s (the HL7 standard interchange formats used for claims and remits).
 
-<a href="https://archive.ics.uci.edu/ml/datasets/Diabetes+130-US+hospitals+for+years+1999-2008">Dataset<\a>
+<a href="https://archive.ics.uci.edu/ml/datasets/Diabetes+130-US+hospitals+for+years+1999-2008">Dataset</a>
 Source Code: <a href="https://github.com/kshptl/Patient-Selection-for-Diabetes-Drug-Testing-using-EHR-Data"><i class="large github icon"></i>https://github.com/nathancy/LM-CEW-Automation-</a>
-
-### Project Overview
-Continuous electrowetting (CEW) is an electromechanical response that can be used to alter the surface tension of liquid-metal droplets through the application of an electric potential. Galinstan, a liquid metal is injected into an electrolyte-filled channel and manually actuated. Although general control of liquid-metal slug locations has been demonstrated, pinpoint accuracy and automation has yet to be proven. Based on results from initial prototypes, this implementation demonstrates a CEW automation design concept to enable accurate positional control by utilizing a microcontroller and positional feedback sensors to directly improve liquid-metal device testing.
-
-<img class="ui fluid image" src="../images/CEW3.JPG">
-
-### Implementation
-Continuous electrowetting automation is implemented using an [Arduino Mega](https://www.arduino.cc/en/Main/arduinoBoardMega2560) microcontroller, a open-source electronics platform, the [Agilent 33220A](http://www.keysight.com/en/pd-127539-pn-33220A/function-arbitrary-waveform-generator-20-mhz?cc=US&lc=eng) waveform generator, and home-made feedback displacement sensors made with [Duroid](http://www.rogerscorp.com/acs/producttypes/6/RT-duroid-Laminates.aspx) and resistors. Over a semester, firmware was developed which utilized feedback displacement sensors and the Arduino serial monitor to implement the process of CEW where the user is able to specify a desired position in the fluidic channel. 
-
-### Learning Outcomes
-In this project, I gained experience working with an Arduino microcontroller which included its programming platform and serial interface, C++ for programming the functional abilities of the application, and working with the [CapacitiveSensor Library](https://github.com/PaulStoffregen/CapacitiveSensor) for handling the proximity sensing of the capacitive displacement sensors.
- 
-Source Code: <a href="https://github.com/nathancy/LM-CEW-Automation-"><i class="large github icon"></i>https://github.com/nathancy/LM-CEW-Automation-</a>
 
 
