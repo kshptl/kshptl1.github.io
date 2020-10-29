@@ -1,35 +1,35 @@
 {
   "basics": {
-    "name": "Nathan Lam",
-    "label": "Student",
-    "picture": "https://nathancy.github.io/images/profile_nathan_lam.jpg",
-    "email": "nathancy@hawaii.edu",
-    "phone": "808-206-1027",
-    "website": "https://nathancy.github.io",
-    "summary": "I am pursuing a B.S. in Computer Engineering in the College of Engineering at the University of Hawaii. I expect to graduate in Spring 2018.",
+    "name": "Kush Patel",
+    "label": "Data Scientist",
+    "picture": "",
+    "email": "kpatel44@umd.edu",
+    "phone": "4432197442",
+    "website": "https://kshptl.github.io",
+    "summary": "I am a Scientist at a Pharmaceutical Manufacturing company and currently pursuing a Masters in Data Science and Analytics at the University of Maryland.",
     "location": {
       "address": "",
-      "postalCode": "96815",
-      "city": "Honolulu",
+      "postalCode": "",
+      "city": "Washington D.C.",
       "countryCode": "USA",
-      "region": "Hawaii"
+      "region": ""
     },
     "profiles": [
       {
         "network": "github",
-        "username": "nathancy",
-        "url": "http://github.com/nathancy"
+        "username": "kush",
+        "url": "http://github.com/kshptl"
       },
       {
         "network": "linkedin",
-        "username": "Nathan Lam",
-        "url": "http://linkedin.com/in/nathan-lam-14b936112"
+        "username": "Kush Patel",
+        "url": "https://www.linkedin.com/in/kush-patel-4248a9a4/"
       }
     ]
   },
   "interests": [
     {
-      "name": "Embedded Systems",
+      "name": "Data Science",
       "keywords": [
       ]
     },
@@ -39,7 +39,7 @@
       ]
     },
     {
-      "name": "Firmware Development",
+      "name": "Machine Learning",
       "keywords": [
       ]
     }
@@ -48,39 +48,32 @@
     {
       "name": "Languages and Frameworks",
       "level": "",
-      "keywords": [
-        "C",
+      "keywords": [,
         "C++",
-        "Java",
-        "Javascript",
-        "HTML",
-        "CSS",
         "Python"
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Toolsets",
       "level": "",
       "keywords": [
-        "Vim",
-        "gcc",
-        "g++",
+        "Pandas",
+        "Tensorflow",
+        "Pytorch"
+        "Amazon Web Services"
+        "Google Cloud Product"
         "Git/GitHub",
-        "Ubuntu",
-        "Windows",
-        "Verilog",
         "MATLAB",
-        "Cygwin"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Engineering (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2014-09-01",
-      "endDate": "Present",
+      "institution": "University of Maryland, College Park",
+      "area": "Data Science and Analytics",
+      "studyType": "M.P.S.",
+      "startDate": "2019",
+      "endDate": "2021",
       "gpa": "",
       "courses": [
       ]
@@ -88,63 +81,17 @@
   ],
   "work": [
     {
-      "company": "Spectrum Photonics Inc.",
-      "position": "Engineering Intern",
-      "website": "http://spectrum-photonics.com/",
-      "startDate": "2016-05-06",
-      "endDate": "Present",
-      "summary": "Designed and implemented web-based data-logger",
-      "highlights": [
-        "Built data-logger web-server from scratch using the Django web framework",
-        "Wrote Python scripts to log data via UART on a Raspberry Pi into .csv files",
-        "Designed and customized web interface using HTML5/CSS to create, edit, remove, or view logging data"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "American Red Cross Summer Buddies",
-      "website": "http://www.redcross.org/local/hawaii/take-a-class/aquatics",
-      "position": "Swim Coordinator",
-      "startDate": "2008-06-01",
-      "endDate": "2014-08-01",
-      "summary": "Taught kids (ages 3-11) how to swim, educated about ocean safety, First Aid/CPR Certification, and various community service projects.",
-      "highlights": [
-      ]
-    },
-    {
-      "organization": "",
+      "company": "WES Pharma",
+      "position": "Scientist",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "startDate": "2019-08",
+      "endDate": "Present",
+      "summary": "Successfully perform development and optimization of solid oral dosage drugs in a cGMP FDA regulated facility to facilitate the launch of new drug products.",
       "highlights": [
-        "Member, IEEE-Eta Kappa Nu Honor Society, 2016-Present",
-        "Member, IEEE Student Branch, 2015-Present",
-        "Member, Golden Key International Honor Society, 2015-Present",
-        "Member, Honors Program, 2014-Present"
+        "Optimized image classification parameters to increase  tablet drilling accuracy by 34% saving $10K per batch.",
+        "Modeled drying process and identified critical process parameters to reduce drying time from 3 hours to 30 minutes.",
+        "Executed Design of Experiments and performed A/B Testing to determine optimal drug parameters."
       ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Manoa Chancellor's Scholarship",
-      "date": "2014-Present",
-      "awarder": "University of Hawaii at Manoa",
-      "summary": "A maximum of 80 scholarships of $10,000 annually ($5,000/semester) will be awarded by the Office of Admissions to high-achieving Hawaiʻi high school graduates."
-    },
-    {
-      "title": "Dean's List",
-      "date": "Fall 2014-Present",
-      "awarder": "University of Hawaii College of Engineering",
-      "summary": "Awarded to students who earn a semester grade point average of 3.5 or higher based on 12 credits or more taken for a grade."
-    },
-    {
-      "title": "1st Place Division B Oahu Mathematics League Champions",
-      "date": "2011-2013",
-      "awarder": "Oahu Math League",
-      "summary": "OML is a mathematics competition league open to high schools statewide which include 32 schools (19 public, 13 private), including five Big Island schools who compete remotely."
     }
   ],
   "references": [
