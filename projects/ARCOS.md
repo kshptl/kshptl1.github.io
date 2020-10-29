@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/adventure.png
-title: Adventure Portal
+title: Analysis of Department of Justice Opiod Database
 permalink: projects/adventure-portal
 date: 2020
 labels:
