@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/adventure.png
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Seal_of_the_United_States_Drug_Enforcement_Administration.svg/1200px-Seal_of_the_United_States_Drug_Enforcement_Administration.svg.png
 title: Analysis of Department of Justice Opiod Database
 permalink: projects/adventure-portal
 date: 2020
