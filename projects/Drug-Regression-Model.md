@@ -25,6 +25,7 @@ This project demonstrated the importance of building the right data representati
 Due to healthcare PHI regulations (HIPAA, HITECH), there are limited number of publicly available datasets and some datasets require training and approval. Therefore, dataset is limited in its representation of some key features such as diagnosis codes which are usually an unordered list in 835s/837s (the HL7 standard interchange formats used for claims and remits).
 
 <a href="https://archive.ics.uci.edu/ml/datasets/Diabetes+130-US+hospitals+for+years+1999-2008">Dataset</a>
+
 Source Code: <a href="https://github.com/kshptl/Patient-Selection-for-Diabetes-Drug-Testing-using-EHR-Data"><i class="large github icon"></i>https://github.com/nathancy/LM-CEW-Automation-</a>
 
 
