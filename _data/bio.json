@@ -59,11 +59,11 @@
       "keywords": [
         "Pandas",
         "Tensorflow",
-        "Pytorch"
-        "Amazon Web Services"
-        "Google Cloud Product"
+        "Pytorch",
+        "Amazon Web Services",
+        "Google Cloud Product",
         "Git/GitHub",
-        "MATLAB",
+        "MATLAB"
       ]
     }
   ],
@@ -76,6 +76,11 @@
       "endDate": "2021",
       "gpa": "",
       "courses": [
+          "Big Data Systems",
+          "Deep Learning",
+          "Data Representation and Modeling",
+          "Research Methods and Study Design",
+          "..."
       ]
     }
   ],
