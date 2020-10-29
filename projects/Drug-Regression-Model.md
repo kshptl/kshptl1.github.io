@@ -26,6 +26,8 @@ Due to healthcare PHI regulations (HIPAA, HITECH), there are limited number of p
 
 <a href="https://archive.ics.uci.edu/ml/datasets/Diabetes+130-US+hospitals+for+years+1999-2008">Dataset</a>
 
-Source Code: <a href="https://github.com/kshptl/Patient-Selection-for-Diabetes-Drug-Testing-using-EHR-Data"><i class="large github icon"></i>https://github.com/nathancy/LM-CEW-Automation-</a>
+<!--Source Code: <a href="https://github.com/kshptl/Patient-Selection-for-Diabetes-Drug-Testing-using-EHR-Data"><i class="large github icon"></i>https://github.com/nathancy/LM-CEW-Automation-</a>-->
+<a href="https://github.com/kshptl/Patient-Selection-for-Diabetes-Drug-Testing-using-EHR-Data">Source Code</a>
+
 
 
