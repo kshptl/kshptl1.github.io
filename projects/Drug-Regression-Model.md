@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/drug-regression
+image: images/drug-regression.jpeg
 title: Regression Model to Predict Patient Estimated Hospitalization Time
 permalink: projects/Drug-Regression-Model
 date: 2020

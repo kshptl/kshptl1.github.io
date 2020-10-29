@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/DEA
+image: images/DEA.png
 title: Analysis of Department of Justice Opiod Database
 permalink: projects/adventure-portal
 date: 2020
