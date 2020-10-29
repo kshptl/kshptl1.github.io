@@ -11,12 +11,6 @@ labels:
   - Regression Model
 Summary: Built a machine learning model to identify diabetes patients that are likely to be treated with a client drug, thereby ensuring effective reach out of the medical representatives to the corresponding physicians.
 ---
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/CEW1.JPG">
-  <img class="ui image" src="../images/CEW5.JPG">
-  <img class="ui image" src="../images/CEW2.JPG">
-  <img class="ui image" src="../images/CEW4.JPG">
-</div>
 
 ### Project Overview
 Drugs that are ready for Phase III clinical trial testing undergo administering and screening. For example, a very unique and sensitive diabetes drug requires administering and screening the drug over at least 5-7 days of time in the hospital with frequent monitoring/testing and patient medication adherence training with a mobile application. A predictive model was built that can identify which type of patients the drug should be tested on. Target patients were people that were likely to be in the hospital for this duration of time and would not incur significant additional costs for administering this drug to the patient and monitoring.
