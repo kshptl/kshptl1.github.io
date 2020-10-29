@@ -2,14 +2,14 @@
 layout: project
 type: project
 image: images/CEW1.JPG
-title: Continuous Electrowetting Automation
-permalink: projects/cew
-date: 2016
+title: Regression Model to Predict Patient Estimated Hospitalization Time
+permalink: projects/Drug-Regression-Model
+date: 2020
 labels:
-  - C++
-  - Arduino
-  - Capacitive Displacement Sensors
-summary: Implemented continuous electrowetting automation and precise positional control for reconfigurable electronic devices using Galinstan.
+  - Python
+  - Clinical Data
+  - Regression Model
+Summary: Built a machine learning model to identify diabetes patients that are likely to be treated with a client drug, thereby ensuring effective reach out of the medical representatives to the corresponding physicians.
 ---
 <div class="ui small rounded images">
   <img class="ui image" src="../images/CEW1.JPG">
